@@ -1,4 +1,4 @@
-### Hi there 👋 Aryan Here 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, Aryan Here 
 
 
 <!-- **aaryannipane/aaryannipane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
